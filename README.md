@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! 👋 I'm Yasmine</h1>
 
 <div align="center">
-  <a href="www.linkedin.com/in/yasmine-fihri-9ba6042ab">
+  <a href="https://www.linkedin.com/in/yasmine-fihri-9ba6042ab/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fihriyasmine1@gmail.com">
@@ -96,7 +96,7 @@
 
 💬 Feel free to reach out if you want to discuss **tech, projects, or collaboration opportunities**!  
 📫 **Email:** [fihriyasmine1@gmail.com](mailto:fihriyasmine1@gmail.com)  
-🔗 **LinkedIn:** [www.linkedin.com/in/yasmine-fihri-9ba6042ab](www.linkedin.com/in/yasmine-fihri-9ba6042ab)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/yasmine-fihri-9ba6042ab/](https://www.linkedin.com/in/yasmine-fihri-9ba6042ab/)  
 📂 **Portfolio:** [GitHub](https://github.com/yasminefhr1)
 
 ---
